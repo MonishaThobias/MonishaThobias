@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MonishaThobias
-- 👀 I’m interested in ...Web Development 
-- 🌱 I’m currently learning ...PHP
+- 👀 I’m interested in ...UI Development 
+- 🌱 I’m currently learning ...React Js
 - 💞️ I’m looking to collaborate on ...Web Development 
 - 📫 How to reach me ...monishaklientas@gmail.com
 
