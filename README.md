@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MonishaThobias
-- 👀 I’m interested in ...UI Development 
+- 👀 I’m interested in ...UI (Frontend) Development 
 - 🌱 I’m currently learning ...React Js
 - 💞️ I’m looking to collaborate on ...Web Development 
 - 📫 How to reach me ...monishaklientas@gmail.com
