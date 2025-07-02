@@ -3,7 +3,7 @@
 - 💻 Creating dynamic, interactive websites for clients.
 - 💞️ I’m looking to collaborate on ...Web Development 
 - 📫 How to reach me ...monishatechdev2019@gmail.com
-- Life Hack: Learn new tech 🔥 and share what you have learned 🎉
+- ⚡ Life Hack: Learn new tech 🔥 and share what you have learned 🎉
 
 <!---
 MonishaThobias/MonishaThobias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
